@@ -12,5 +12,9 @@ Input:
 Output
    simple interest = p*t*r
 ```
+contact me over
+aliammar179@gmail.com
+So that we can work together and help each other wherever needed
+
 
 _© 2022 XYZ, Inc._
